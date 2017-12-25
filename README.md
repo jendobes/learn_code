@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HTML Album Cover
 
 This challenge asks that you recreate the album cover shown in the <a href="https://s3.amazonaws.com/learn-verified/MOCKUP.jpg" target="_blank">MOCKUP.jpg</a> image by writing the appropriate HTML necessary into the `index.html` page. Use `SOURCE.md` to copy and paste in all filler text needed.
@@ -14,3 +15,14 @@ This challenge asks that you recreate the album cover shown in the <a href="http
 ***NOTE***: Clicking the blue `Open` button on the Learn.co lesson page or running the `learn open` command in your terminal will automatically fork and clone the repository and change into the appropriate directory.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
+=======
+Exceptional Realty Group Website
+---
+
+# Description
+
+This is an example website for the intro to front-end web development at the Flatiorn School
+
+# Contact
+email: jdobak1@gmail.com
+>>>>>>> d1488f36ac622e12a9a09dc1aa2d52f3f46783ab
